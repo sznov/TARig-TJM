@@ -1,5 +1,7 @@
 Fork of RigNet (https://zhan-xu.github.io/rig-net/), meant to reimplement TARig template joint module.
 
+Main repo: https://github.com/sznov/joint-localization
+
 Original README.md below.
 
 ---
